@@ -204,7 +204,7 @@ def get_points(coin = 'bitcoin', iso = 'XBT'):
 		point = {'lat': lat, 'lon': lon, 'title': name, 'id': ide, 'type': typ, 'icon': icon}
 
 		if 'addr:street' in tags:
-			point['addr'] = '%s %s' % (tags.get('addr:street', ''), tags.get('addr:housenumber', ''))
+			point['addr'] = '%s %s' % (tags.get('addr:housenumber', ''), tags.get('addr:street', ''))
 		if 'addr:city' in tags:
 			point['city'] = '%s %s' % (tags.get('addr:postcode', ''), tags.get('addr:city', ''))
 		if 'addr:country' in tags:
