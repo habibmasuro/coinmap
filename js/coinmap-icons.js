@@ -17,6 +17,7 @@ var addIcon = function(str, icon, promoted) {
 var icons = [
 '_bitcoin',
 '_litecoin',
+'_peercoin',
 'accommodation_alpinehut',
 'accommodation_bed_and_breakfast',
 'accommodation_camping',
