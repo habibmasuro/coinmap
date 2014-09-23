@@ -4,7 +4,7 @@ CoinMap
 <http://coinmap.peercointalk.org/>
 <http://coinmap.org/>
 
-Map showing places where you can use Bitcoin, Litecoin and soon Peercoin.
+Map showing places where you can use Bitcoin, Litecoin and now Peercoin.
 
 Donations welcome at:
 * 1BnpG4jddgNXsQBQjsU8BS3F1Ubm9XgVah (Bitcoin)
