@@ -1,1 +1,1 @@
-function get_coins() { return ["Bitcoin", "Litecoin", "Peercoin"]; }
+function get_coins() { return ["Bitcoin", "Litecoin", "Peercoin", "Primecoin"]; }

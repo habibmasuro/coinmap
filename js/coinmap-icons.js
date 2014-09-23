@@ -18,6 +18,7 @@ var icons = [
 '_bitcoin',
 '_litecoin',
 '_peercoin',
+'_primecoin',
 'accommodation_alpinehut',
 'accommodation_bed_and_breakfast',
 'accommodation_camping',
